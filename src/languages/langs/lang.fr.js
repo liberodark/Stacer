@@ -60,7 +60,7 @@ export default {
 	swap: "Swap",
 	// Settings
 	settings: "Options",
-	appSettings: "Options Application",
+	appSettings: "Options",
 	appLanguage: "Langue",
 	appTheme: "Thème",
 	// Global
